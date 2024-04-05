@@ -5,8 +5,6 @@
 #include <cmath>
 using namespace std;
 
-const vector<string> colors{ "red", "black" };
-
 class RBTree {
 private:
     struct Node {
